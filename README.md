@@ -81,10 +81,15 @@ on-chain-reputation-system/
 │   ├── vite.config.js
 │   └── package.json
 │
-├── implementation.md                  # Step-by-step setup guide
 └── README.md
 ```
 
 ---
 
-*Built for hackathons on Stellar Soroban. Ship fast, build trust, earn rep.* 🚀
+Wallet Address: GBAQHL4FI36WVWTSHEEGQHAHPAHQCBOI7NYKEFWFQ2QKOAINDBSWVEBT
+
+Contract ID: CCAXMBDPDXWNKHO6MSFYII7IVQOGJABYTYPNARTP2CKNROGPPXY5LWBV
+
+---
+
+*Built for hackathons on Stellar Soroban. Ship fast, build trust, earn reputation.* 🚀

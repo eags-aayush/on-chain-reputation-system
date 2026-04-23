@@ -5,4 +5,8 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-})
+  define: {
+    // Required for stellar-sdk to work in the browser
+    global: "globalThis",
+  },
+});
